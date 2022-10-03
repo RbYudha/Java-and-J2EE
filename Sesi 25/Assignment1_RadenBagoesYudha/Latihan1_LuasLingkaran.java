@@ -10,6 +10,7 @@ public class Latihan1_LuasLingkaran {
 
         // scan
         Scanner input1 = new Scanner(System.in);
+        input1.close();
 
         // Hasil
         System.out.println("----Sistem menghitung Luas Linkaran----");
@@ -18,6 +19,7 @@ public class Latihan1_LuasLingkaran {
         luas = pi * r * r;
 
         System.out.println("Luas lingkaran dengan jari-jari " + r + " adalah = " + luas);
+
     }
 
 }

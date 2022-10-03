@@ -34,7 +34,7 @@ public class Latihan4 {
         System.out.println("Tes ke-9 menggunakan simbol ==, hasil = " + (c == a));
 
         // 10. != , hasil yang diinginkan false
-        System.out.println("Tes ke-2 menggunakan simbol !=, hasil = " + (d != 5));
+        System.out.println("Tes ke-10 menggunakan simbol !=, hasil = " + (d != 5));
 
     }
 

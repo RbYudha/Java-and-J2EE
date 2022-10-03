@@ -9,12 +9,10 @@ public class Latihan5a {
         System.out.println("");
 
         // jawaban point a
-        int x1 = y1 + y2;
-        // x1 = x1 * x1;
-        x1 *= x1;
-
-        int x2 = y1 % 4;
-        x2 = x2 * y2;
+        // x1
+        int x1 = (y1 + y2) * (y1 + y2);
+        // x2
+        int x2 = (y1 % 4) * y2;
 
         // print hasil point a
         System.out.println("--Jawaban Point A--");
