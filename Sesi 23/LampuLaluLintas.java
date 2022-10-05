@@ -22,6 +22,7 @@ public class LampuLaluLintas {
                 System.out.println("salah");
 
         }
+        scan.close();
 
     }
 }

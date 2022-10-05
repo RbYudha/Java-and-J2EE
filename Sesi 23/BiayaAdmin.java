@@ -9,7 +9,7 @@ public class BiayaAdmin {
         Scanner scan = new Scanner(System.in);
         System.out.print("Masukan Saldo anda : Rp.");
         saldo = scan.nextInt();
-
+        scan.close();
         double saldoAkhir;
 
         if (saldo >= 1000000) {

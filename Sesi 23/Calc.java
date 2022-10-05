@@ -36,6 +36,6 @@ public class Calc {
         System.out.println("Test nilai ++");
         System.out.println(++a1);
         System.out.println(a1++);
-
+        scan.close();
     }
 }

@@ -17,6 +17,6 @@ public class Percabangan {
         } else {
             System.out.println(nama + ", anda bodo");
         }
-
+        scan.close();
     }
 }
